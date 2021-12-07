@@ -31,5 +31,11 @@ public class JavaStream1 {
         System.out.println(evenList1);
         System.out.println(evenList2);
         System.out.println(evenList3);
+
+        //Question 2 -> Filter all numbers greater than 10
+        List<Integer> greaterThanTenList1 = list1.stream().filter(i -> i > 10).collect(Collectors.toList());
+
+        // Printing all numbers greater than 10
+        System.out.println(greaterThanTenList1);
     }
 }
