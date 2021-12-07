@@ -2,3 +2,4 @@ This file will contain information about this project.
 This project aims to educate us about Java Streams.
 Java Streams were introduced in Java 8 and help us in writing better code.
 Streams should only be studied when we know JAVA upto some extent.
+Java Streams will enable us to remove extra, useless lines of code.
