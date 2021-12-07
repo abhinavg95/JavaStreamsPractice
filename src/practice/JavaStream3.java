@@ -35,10 +35,10 @@ public class JavaStream3 {
         // 4. min
         List<Integer> numeric = List.of(23, 4, 2, 5, 7, 4);
         Integer minInteger = numeric.stream().min(Integer::compare).get();
-        System.out.println(minInteger);
+        System.out.println("Minimum from the list "+minInteger);
 
         // 5. max
         Integer maxInteger = numeric.stream().max(Integer::compare).get();
-        System.out.println(maxInteger);
+        System.out.println("Maximum from the list "+maxInteger);
     }
 }
