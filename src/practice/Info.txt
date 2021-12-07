@@ -1,0 +1,2 @@
+This file will contain information about this project.
+This project aims to educate us about Java Streams.
