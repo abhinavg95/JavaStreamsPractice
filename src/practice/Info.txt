@@ -1,2 +1,3 @@
 This file will contain information about this project.
 This project aims to educate us about Java Streams.
+Java Streams were introduced in Java 8 and help us in writing better code.
